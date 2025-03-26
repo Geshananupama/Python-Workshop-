@@ -1,2 +1,2 @@
 print ("Hello World!")
-print ("Python workshop dayt 01")
+print ("Python workshop day 01")
